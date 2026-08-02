@@ -11,8 +11,6 @@ I build things end to end — websites, desktop apps, databases, and the odd AI 
 
 I'm a Computer Science student who genuinely likes the whole stack — front-end, back-end, databases, and the lower-level stuff most people skip (processes, threads, memory). My coursework covers AI/ML, operating systems, databases, software engineering, and compiler design, and I like turning that into things that actually work, not just assignments that get submitted and forgotten.
 
-Outside of coding, I keep a personal knowledge base in Obsidian, I'm into Bollywood/Lollywood music, and I unwind with the occasional PS4 session.
-
 I take freelance work seriously — clear communication, realistic timelines, and code that doesn't fall apart the week after delivery.
 
 ---
