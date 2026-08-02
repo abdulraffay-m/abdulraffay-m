@@ -38,7 +38,8 @@ Built this with a team (Team Axiom) — a desktop HR platform in JavaFX with pro
 A chess game in C where each side runs as a separate process, talking through shared memory and kept in sync with mutexes. More about getting concurrency right than the chess itself.
 
 **🌐 Recruitment Agency Website** *(in progress)*
-Marketing site for an international manpower/recruitment company — plain HTML/CSS/JS, deployed on Vercel/Netlify, contact forms via Formspree, custom domain from Namecheap/Porkbun.
+[website] (https://www.doubletreerecruitment.com/)
+Marketing site for an international manpower/recruitment company — HTML/CSS/JS, deployed on Vercel/Netlify, contact forms via Formspree, custom domain from Namecheap/Porkbun.
 
 ---
 
