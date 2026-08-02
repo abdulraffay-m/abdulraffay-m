@@ -24,22 +24,21 @@ Marketing site for an international manpower/recruitment company — HTML/CSS/JS
 **🏢 NexHCM — HR Management System** (https://nexhcm.vercel.app/login)
 Built this with a team (Team Axiom) — a desktop HR platform in JavaFX with proper MVC structure, role-based access control, and the Gemini API wired in for smart features. Ran it Scrum-style, sprint by sprint.
 
-**♟️ Chrono Rift — Multi-Process Chess**
-[Repo](#)
-A chess game in C where each side runs as a separate process, talking through shared memory and kept in sync with mutexes. More about getting concurrency right than the chess itself.
+**🧪 Certified Australia Portal - Qaulity Assurance & API Testing** (https://portal.certifiedaustralia.com.au/login)
+Tested the Certified Australia login portal end to end — API testing with Postman, load/performance testing with JMeter, and browser automation with Playwright.
 
 ----
 
 
 ## What I work with
 
-**Languages:** Java, C/C++, JavaScript, PHP, SQL, Python
+[**Languages:** Java, C/C++, JavaScript, PHP, SQL, Python
 **Web:** HTML5, CSS3, JavaScript, Formspree, deploying on Vercel/Netlify with custom domains
 **Desktop:** JavaFX, MVC architecture
 **Databases:** SQL Server (T-SQL), MySQL, schema design & normalization
 **AI/ML:** Decision trees, genetic algorithms, alpha-beta search, Gemini API integration
 **Systems:** POSIX threads, semaphores, shared memory, process synchronization in C
-**Tools:** Git & GitHub, VS Code, WSL2 (Ubuntu), XAMPP
+**Tools:** Git & GitHub, VS Code, WSL2 (Ubuntu), XAMPP, Postman, Jmeter, Playwright, AWS
 
 ---
 
