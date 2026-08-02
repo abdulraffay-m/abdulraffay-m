@@ -21,7 +21,7 @@ I take freelance work seriously — clear communication, realistic timelines, an
 **🌐 Recruitment Agency Website** (https://www.doubletreerecruitment.com/)
 Marketing site for an international manpower/recruitment company — HTML/CSS/JS, deployed on Vercel/Netlify, contact forms via Formspree, custom domain from Namecheap/Porkbun.
 
-**🏢 NexHCM — HR Management System** [Repo](#)
+**🏢 NexHCM — HR Management System** (https://nexhcm.vercel.app/login)
 Built this with a team (Team Axiom) — a desktop HR platform in JavaFX with proper MVC structure, role-based access control, and the Gemini API wired in for smart features. Ran it Scrum-style, sprint by sprint.
 
 **♟️ Chrono Rift — Multi-Process Chess**
