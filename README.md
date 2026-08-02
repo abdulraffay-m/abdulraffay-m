@@ -30,6 +30,9 @@ I take freelance work seriously — clear communication, realistic timelines, an
 ## Projects I've actually built
 
 **🏢 NexHCM — HR Management System**
+**🌐 Recruitment Agency Website** (https://www.doubletreerecruitment.com/)
+Marketing site for an international manpower/recruitment company — HTML/CSS/JS, deployed on Vercel/Netlify, contact forms via Formspree, custom domain from Namecheap/Porkbun.
+
 [Repo](#)
 Built this with a team (Team Axiom) — a desktop HR platform in JavaFX with proper MVC structure, role-based access control, and the Gemini API wired in for smart features. Ran it Scrum-style, sprint by sprint.
 
@@ -37,9 +40,6 @@ Built this with a team (Team Axiom) — a desktop HR platform in JavaFX with pro
 [Repo](#)
 A chess game in C where each side runs as a separate process, talking through shared memory and kept in sync with mutexes. More about getting concurrency right than the chess itself.
 
-**🌐 Recruitment Agency Website** *(in progress)*
-[website] (https://www.doubletreerecruitment.com/)
-Marketing site for an international manpower/recruitment company — HTML/CSS/JS, deployed on Vercel/Netlify, contact forms via Formspree, custom domain from Namecheap/Porkbun.
 
 ---
 
