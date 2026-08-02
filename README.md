@@ -15,18 +15,6 @@ I take freelance work seriously — clear communication, realistic timelines, an
 
 ---
 
-## What I work with
-
-**Languages:** Java, C/C++, JavaScript, PHP, SQL, Python
-**Web:** HTML5, CSS3, JavaScript, Formspree, deploying on Vercel/Netlify with custom domains
-**Desktop:** JavaFX, MVC architecture
-**Databases:** SQL Server (T-SQL), MySQL, schema design & normalization
-**AI/ML:** Decision trees, genetic algorithms, alpha-beta search, Gemini API integration
-**Systems:** POSIX threads, semaphores, shared memory, process synchronization in C
-**Tools:** Git & GitHub, VS Code, WSL2 (Ubuntu), XAMPP
-
----
-
 ## Projects I've actually built
 
 
@@ -40,6 +28,18 @@ Built this with a team (Team Axiom) — a desktop HR platform in JavaFX with pro
 [Repo](#)
 A chess game in C where each side runs as a separate process, talking through shared memory and kept in sync with mutexes. More about getting concurrency right than the chess itself.
 
+----
+
+
+## What I work with
+
+**Languages:** Java, C/C++, JavaScript, PHP, SQL, Python
+**Web:** HTML5, CSS3, JavaScript, Formspree, deploying on Vercel/Netlify with custom domains
+**Desktop:** JavaFX, MVC architecture
+**Databases:** SQL Server (T-SQL), MySQL, schema design & normalization
+**AI/ML:** Decision trees, genetic algorithms, alpha-beta search, Gemini API integration
+**Systems:** POSIX threads, semaphores, shared memory, process synchronization in C
+**Tools:** Git & GitHub, VS Code, WSL2 (Ubuntu), XAMPP
 
 ---
 
