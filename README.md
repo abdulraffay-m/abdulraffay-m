@@ -1,63 +1,56 @@
-# Abdul Raffay
-**Computer Science Student @ FAST-NUCES Islamabad**
-Full-Stack Developer · AI/ML Coursework · Systems Programming
+# Hey, I'm Abdul Raffay 👋
+
+**CS Student @ FAST-NUCES Islamabad**
+I build things end to end — websites, desktop apps, databases, and the odd AI feature bolted on when it actually helps.
 
 📧 [your-email@example.com](mailto:your-email@example.com) · [LinkedIn](https://linkedin.com/in/your-profile) · 🇵🇰 Rawalpindi, Pakistan
 
 ---
 
-## About Me
+## A bit about me
 
-I'm a CS student at FAST-NUCES Islamabad who builds practical, working software — from business-facing web platforms to desktop applications with real database backends and AI integration. My coursework spans AI/ML, operating systems, databases, software engineering, and compiler construction, and I like taking that foundation into projects that actually ship.
+I'm a Computer Science student who genuinely likes the whole stack — front-end, back-end, databases, and the lower-level stuff most people skip (processes, threads, memory). My coursework covers AI/ML, operating systems, databases, software engineering, and compiler design, and I like turning that into things that actually work, not just assignments that get submitted and forgotten.
 
-Currently available for freelance work in web development, desktop applications, and database-driven systems.
+Outside of coding, I keep a personal knowledge base in Obsidian, I'm into Bollywood/Lollywood music, and I unwind with the occasional PS4 session.
+
+I take freelance work seriously — clear communication, realistic timelines, and code that doesn't fall apart the week after delivery.
 
 ---
 
-## Technical Skills
+## What I work with
 
 **Languages:** Java, C/C++, JavaScript, PHP, SQL, Python
-**Web:** HTML5, CSS3, JavaScript (vanilla), Formspree
+**Web:** HTML5, CSS3, JavaScript, Formspree, deploying on Vercel/Netlify with custom domains
 **Desktop:** JavaFX, MVC architecture
-**Databases:** SQL Server (T-SQL), MySQL, Database Normalization & ERD Design
-**AI/ML:** Decision Trees, Genetic Algorithms, Alpha-Beta Pruning, Gemini API integration
-**Systems:** POSIX Threads, Semaphores, Shared Memory, Process Synchronization (C)
+**Databases:** SQL Server (T-SQL), MySQL, schema design & normalization
+**AI/ML:** Decision trees, genetic algorithms, alpha-beta search, Gemini API integration
+**Systems:** POSIX threads, semaphores, shared memory, process synchronization in C
 **Tools:** Git & GitHub, VS Code, WSL2 (Ubuntu), XAMPP
-**Deployment:** Vercel, Netlify, custom domain setup (Namecheap/Porkbun)
 
 ---
 
-## Featured Projects
+## Projects I've actually built
 
 **🏢 NexHCM — HR Management System**
-[View Repository](#)
-A full desktop HR management application built with a team (Team Axiom), using JavaFX for the UI layer.
-- MVC architecture with role-based access control (RBAC)
-- Integrated the **Gemini API** for AI-assisted features
-- Built and defended using Scrum methodology across sprints
+[Repo](#)
+Built this with a team (Team Axiom) — a desktop HR platform in JavaFX with proper MVC structure, role-based access control, and the Gemini API wired in for smart features. Ran it Scrum-style, sprint by sprint.
 
-**♟️ Chrono Rift — Multi-Process Chess Engine**
-[View Repository](#)
-A chess game built in **C**, engineered around real OS-level concurrency rather than a single-process design.
-- Multiple processes coordinated via **shared memory**
-- Synchronization handled with **mutexes** to prevent race conditions
-- Demonstrates low-level systems programming and process management
+**♟️ Chrono Rift — Multi-Process Chess**
+[Repo](#)
+A chess game in C where each side runs as a separate process, talking through shared memory and kept in sync with mutexes. More about getting concurrency right than the chess itself.
 
-**🌐 Recruitment Agency Marketing Website** *(in progress)*
-A marketing site for an international manpower/recruitment company.
-- Built with plain HTML/CSS/JS, deployed on Vercel/Netlify
-- Contact form handling via Formspree
-- Custom domain setup and DNS configuration
+**🌐 Recruitment Agency Website** *(in progress)*
+Marketing site for an international manpower/recruitment company — plain HTML/CSS/JS, deployed on Vercel/Netlify, contact forms via Formspree, custom domain from Namecheap/Porkbun.
 
 ---
 
-## Open to Opportunities
+## Let's build something
 
-Available for:
-- Business & marketing websites (HTML/CSS/JS, custom domains, contact forms)
-- Desktop applications (Java/JavaFX) with database backends
-- Database design, normalization, and SQL Server/MySQL systems
-- AI-integrated features using APIs like Gemini
-- C/C++ systems-level and concurrency-based projects
+I take on:
+- Business & marketing websites
+- Desktop apps with real database backends
+- Database design and SQL work
+- AI features that solve an actual problem, not just a gimmick
+- C/C++ and systems-level work
 
-Reach out — let's build something.
+If any of that sounds like what you need, drop me a message.
