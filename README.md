@@ -1,9 +1,9 @@
-# Hey, I'm Abdul Raffay 👋
+# Hey, I'm Abdul Raffay 
 
 **CS Student @ FAST-NUCES Islamabad**
 I build things end to end — websites, desktop apps, databases, and the odd AI feature bolted on when it actually helps.
 
-📧 [your-email@example.com](mailto:your-email@example.com) · [LinkedIn](https://linkedin.com/in/your-profile) · 🇵🇰 Rawalpindi, Pakistan
+📧 [your-email@example.com](mailto:your-raffay.moazzam@gmail.com) · [LinkedIn](https://www.linkedin.com/in/abdul-raffay-a789061bb/) · 🇵🇰 Islamabad, Pakistan
 
 ---
 
