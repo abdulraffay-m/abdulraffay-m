@@ -1,35 +1,63 @@
-<h1 align="center">I'm Abdul Raffay 👋</h1> <h3 align="center">Software Developer | CS Student at FAST-NUCES Islamabad</h3> <p align="center"> Building practical, reliable software — from business websites to desktop apps and AI-integrated tools. </p>
-🧑‍💻 About Me
-🎓 Computer Science student at FAST-NUCES, Islamabad
-💻 I build web platforms, desktop applications, and database-driven systems for real businesses
-🤖 Comfortable integrating AI (Gemini API) into practical, working products
-🇵🇰 Based in Rawalpindi, Pakistan — available for remote and local freelance/contract work
-🎯 I care about shipping things that actually work, on time, without unnecessary overhead
-🛠️ What I Can Build For You
-Business & Marketing Websites — clean, fast, responsive sites (HTML/CSS/JS) deployed on Vercel/Netlify with custom domains
-Desktop Applications — JavaFX/Java-based systems for internal business operations (e.g. HR management, record-keeping)
-Database Systems — schema design, normalization, and SQL Server / MySQL backends for business data
-AI-Powered Features — chatbots, assistants, or smart automation using APIs like Gemini
-Systems & Backend Logic — C/C++ development for performance-focused or process-driven applications
-🚀 Featured Projects
+# Abdul Raffay
+**Computer Science Student @ FAST-NUCES Islamabad**
+Full-Stack Developer · AI/ML Coursework · Systems Programming
 
-🏢 NexHCM — HR Management System A full desktop HR management application built with JavaFX, integrating the Gemini API for smart features and following MVC architecture with role-based access control. Built as part of a team using Scrum.
+📧 [your-email@example.com](mailto:your-email@example.com) · [LinkedIn](https://linkedin.com/in/your-profile) · 🇵🇰 Rawalpindi, Pakistan
 
-♟️ Chrono Rift — Multi-Process Chess Engine A chess game built in C, using shared memory and mutexes to coordinate multiple processes — demonstrating strong systems-level programming and concurrency handling.
+---
 
-🧰 Tech Stack
+## About Me
 
-Languages: Java, C/C++, JavaScript, PHP, SQL, Python
-Web: HTML5, CSS3, JavaScript (vanilla), Formspree
-Databases: SQL Server, MySQL
-Tools: Git & GitHub, VS Code, WSL2, XAMPP
-Deployment: Vercel, Netlify, Namecheap/Porkbun (domains)
+I'm a CS student at FAST-NUCES Islamabad who builds practical, working software — from business-facing web platforms to desktop applications with real database backends and AI integration. My coursework spans AI/ML, operating systems, databases, software engineering, and compiler construction, and I like taking that foundation into projects that actually ship.
 
-📫 Let's Work Together
+Currently available for freelance work in web development, desktop applications, and database-driven systems.
 
-Looking for a developer who can take your project from idea to a working product — website, internal business tool, or something more custom?
+---
 
-📧 Email: add your email here
-💬 WhatsApp: add your number here
-🌐 Portfolio/Fiverr/Upwork: add link here
-<p align="center"><i>Reliable code, clear communication, delivered on time.</i></p>
+## Technical Skills
+
+**Languages:** Java, C/C++, JavaScript, PHP, SQL, Python
+**Web:** HTML5, CSS3, JavaScript (vanilla), Formspree
+**Desktop:** JavaFX, MVC architecture
+**Databases:** SQL Server (T-SQL), MySQL, Database Normalization & ERD Design
+**AI/ML:** Decision Trees, Genetic Algorithms, Alpha-Beta Pruning, Gemini API integration
+**Systems:** POSIX Threads, Semaphores, Shared Memory, Process Synchronization (C)
+**Tools:** Git & GitHub, VS Code, WSL2 (Ubuntu), XAMPP
+**Deployment:** Vercel, Netlify, custom domain setup (Namecheap/Porkbun)
+
+---
+
+## Featured Projects
+
+**🏢 NexHCM — HR Management System**
+[View Repository](#)
+A full desktop HR management application built with a team (Team Axiom), using JavaFX for the UI layer.
+- MVC architecture with role-based access control (RBAC)
+- Integrated the **Gemini API** for AI-assisted features
+- Built and defended using Scrum methodology across sprints
+
+**♟️ Chrono Rift — Multi-Process Chess Engine**
+[View Repository](#)
+A chess game built in **C**, engineered around real OS-level concurrency rather than a single-process design.
+- Multiple processes coordinated via **shared memory**
+- Synchronization handled with **mutexes** to prevent race conditions
+- Demonstrates low-level systems programming and process management
+
+**🌐 Recruitment Agency Marketing Website** *(in progress)*
+A marketing site for an international manpower/recruitment company.
+- Built with plain HTML/CSS/JS, deployed on Vercel/Netlify
+- Contact form handling via Formspree
+- Custom domain setup and DNS configuration
+
+---
+
+## Open to Opportunities
+
+Available for:
+- Business & marketing websites (HTML/CSS/JS, custom domains, contact forms)
+- Desktop applications (Java/JavaFX) with database backends
+- Database design, normalization, and SQL Server/MySQL systems
+- AI-integrated features using APIs like Gemini
+- C/C++ systems-level and concurrency-based projects
+
+Reach out — let's build something.
