@@ -32,7 +32,7 @@ Tested the Certified Australia login portal end to end — API testing with Post
 
 ## What I work with
 
-[**Languages:** Java, C/C++, JavaScript, PHP, SQL, Python
+**Languages:** Java, C/C++, JavaScript, PHP, SQL, Python
 **Web:** HTML5, CSS3, JavaScript, Formspree, deploying on Vercel/Netlify with custom domains
 **Desktop:** JavaFX, MVC architecture
 **Databases:** SQL Server (T-SQL), MySQL, schema design & normalization
